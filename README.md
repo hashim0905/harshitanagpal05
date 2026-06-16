@@ -65,60 +65,37 @@ const harshita: Developer = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
 **🎨 Frontend**
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 [![Frontend2](https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma)](https://skillicons.dev)
-
-</td>
-<td align="center" width="50%">
 
 **⚙️ Backend**
 
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,python,java)](https://skillicons.dev)
 [![Backend2](https://skillicons.dev/icons?i=cpp,fastapi,postman,linux)](https://skillicons.dev)
 
-</td>
-</tr>
-<tr>
-<td align="center">
-
 **🗄️ Database**
 
 [![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis)](https://skillicons.dev)
-
-</td>
-<td align="center">
 
 **🛠️ Tools & DevOps**
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker)](https://skillicons.dev)
 
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
 **🤖 ML / AI**
 
 [![ML](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv)](https://skillicons.dev)
 
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
+
 ## 📊 `github.stats` — *the receipts* 🧾
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshitanagpal05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=harshitanagpal05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -131,7 +108,7 @@ const harshita: Developer = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitanagpal05&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=false&hide_border=true&radius=12&title_color=a78bfa" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitanagpal05&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&radius=12&title_color=a78bfa" width="95%"/>
 </div>
 
 ---
